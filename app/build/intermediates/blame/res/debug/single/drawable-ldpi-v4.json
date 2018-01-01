@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/logo.bmp",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/drawable-ldpi/logo.bmp"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/logo.bmp",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-ldpi/logo.bmp"
+    }
+]

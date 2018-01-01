@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- main menu -->
+    <string-array name="WIZARPOS">
+        <item>IDCardAction</item>
+        <item>RFCardAction</item>
+        <item>SmartCardAction1</item>
+        <item>SmartCardAction2</item>
+        <item>MSRCardAction</item>
+        <item>PINPadAction</item>
+        <item>LEDAction</item>
+        <item>SerialPortAction</item>
+        <item>CustomerDisplayAction</item>
+        <item>PrinterAction</item>
+        <item>CashDrawerAction</item>
+        <item>FingerPrintAction</item>
+    </string-array>
+
+    <!-- sub menu -->
+    <string-array name="IDCardAction">
+        <item>IDCardAction</item>
+    </string-array>
+    <string-array name="RFCardAction">
+        <item>open</item>
+        <item>queryInfo</item>
+        <item>verify</item>
+        <item>read</item>
+        <item>write</item>
+        <item>attach</item>
+        <item>transmit</item>
+        <item>detach</item>
+        <item>readMoneyValue</item>
+        <item>readMoneyValue2</item>
+        <item>writeMoneyValue</item>
+        <item>increment</item>
+        <item>decrement</item>
+        <item>transfer</item>
+        <item>restore</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="SmartCardAction1">
+        <item>queryMaxNumber</item>
+        <item>queryPresence</item>
+        <item>open</item>
+        <item>powerOn</item>
+        <item>transmit</item>
+        <item>powerOff</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="SmartCardAction2">
+        <item>queryMaxNumber</item>
+        <item>queryPresence</item>
+        <item>open</item>
+        <item>powerOn</item>
+        <item>transmit</item>
+        <item>powerOff</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="MSRCardAction">
+        <item>open</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="PINPadAction">
+        <item>open</item>
+        <item>showText</item>
+        <item>clearText</item>
+        <item>setPINLength</item>
+        <item>updateUserKey</item>
+        <item>getSerialNo</item>
+        <item>selectKey</item>
+        <item>encryptData</item>
+        <item>calculateMAC</item>
+        <item>calculatePINBlock</item>
+        <item>updateMasterKeyE</item>
+        <item>updateUserKeyWithCheckE</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="LEDAction">
+        <item>open</item>
+        <item>turnOn</item>
+        <item>turnOff</item>
+        <item>getStatus</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="SerialPortAction">
+        <item>open</item>
+        <item>setBaudrate</item>
+        <item>read</item>
+        <item>write</item>
+        <item>flushIO</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="CustomerDisplayAction">
+        <item>open</item>
+        <item>buzzerBeep</item>
+        <item>LEDPower</item>
+        <item>setBackground</item>
+        <item>displayDefaultScreen</item>
+        <item>writePicture</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="PrinterAction">
+        <item>open</item>
+        <item>queryStatus</item>
+        <item>write</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="PrinterActionWIZARHAND_Q1">
+        <item>queryVoltage</item>
+        <item>open</item>
+        <item>queryStatus</item>
+        <item>write</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="CashDrawerAction">
+        <item>open</item>
+        <item>kickOut</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="FingerPrintAction">
+        <item>open</item>
+        <item>getFea</item>
+        <item>getLastImage</item>
+        <item>match</item>
+        <item>cancel</item>
+        <item>close</item>
+    </string-array>
+
+</resources>

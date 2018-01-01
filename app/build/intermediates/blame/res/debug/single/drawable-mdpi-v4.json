@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.bmp",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/drawable-mdpi/logo.bmp"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo.bmp",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/logo.bmp"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/print_qrcode.bmp",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/print_qrcode.bmp"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/print_qrcode.bmp",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/drawable-mdpi/print_qrcode.bmp"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/print_logo.bmp",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/drawable-mdpi/print_logo.bmp"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/print.bmp",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/drawable-mdpi/print.bmp"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/print.bmp",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/print.bmp"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/print_logo.bmp",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/print_logo.bmp"
+    }
+]

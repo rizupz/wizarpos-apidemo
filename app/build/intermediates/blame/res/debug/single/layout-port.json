@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/layout-port/activity_main.xml",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout-port/activity_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/layout-port/activity_main.xml",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/layout-port/activity_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/layout-port/item_main.xml",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout-port/item_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/layout-port/item_main.xml",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/layout-port/item_main.xml"
+    }
+]

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- options -->
+    <!-- Main menu -->
+    <string name="WIZARPOS">身份证,非接卡,IC卡1,IC卡2,磁条卡,密码键盘,LED,串口,客显,打印机,钱箱,指纹模块</string>
+    <string name="WIZARHAND_Q1">IDCardAction</string>
+    <!-- sub menu -->
+    <string name="IDCardAction">IDCardAction</string>
+    <string name="RFCardAction">Open,QueryInfo,Verify,Read,Write,Attach,Transmit,Detach,ReadMoneyValue,ReadMoneyValue2,WriteMoneyValue,Increment,Decrement,Transfer,Restore,Close</string>
+    <string name="SmartCardAction1">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string>
+    <string name="SmartCardAction2">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string>
+    <string name="MSRCardAction">Open,Close</string>
+    <string name="PINPadAction">Open,ShowText,ClearText,SetPINLength,UpdateUserKey,GetSerialNo,SelectKey,EncryptData,CalculateMAC,CalculatePINBlock,UpdateMasterKeyE,UpdateUserKeyE,Close</string>
+    <string name="LEDAction">Open,TurnOn,TurnOff,GetStatus,Close</string>
+    <string name="SerialPortAction">Open,SetBaudrate,Read,Write,FlushIO,Close</string>
+    <string name="CustomerDisplayAction">Open,BuzzerBeep,LEDPower,SetBackground,DisplayDefaultScreen,WritePicture,Close</string>
+    <string name="PrinterAction">Open,QueryStatus,Write,Close</string>
+    <string name="PrinterActionWIZARHAND_Q1">查询电压,Open,QueryStatus,Write,Close</string>
+    <string name="CashDrawerAction">Open,KickOut,Close</string>
+    <string name="FingerPrintAction">Open,GetFea,GetLastImage,Match,Cancel,Close</string>
+
+    <!-- 按钮 -->
+    <string name="app_name">APIDemoCloudPos3</string>
+    <string name="action_settings">设置</string>
+    <string name="clearlog">清除日志</string>
+    <string name="uninstall">卸载应用</string>
+    <string name="back">返回</string>
+    <string name="welcome">欢迎来到</string>
+    <string name="testEnd">测试结束</string>
+    <string name="jianjie">测试简介</string>
+    <string name="version">版本: 0.0.1</string>
+
+    <!-- nromal displays -->
+    <string name="device_not_open">设备未打开</string>
+    <string name="device_opened">设备已打开</string>
+    <string name="operation_failed"> 失败</string>
+    <string name="operation_with_error">失败,错误码 = </string>
+    <string name="operation_successful">成功</string>
+
+    <!-- IDCardAction -->
+    <string name="txt_name">姓  名：</string>
+    <string name="txt_sex">性  别：</string>
+    <string name="txt_nation">民  族：</string>
+    <string name="txt_born">出  生：</string>
+    <string name="txt_address">住  址：</string>
+    <string name="txt_grantdept">签发机关：</string>
+    <string name="txt_id_no">身份号码：</string>
+    <string name="txt_userlifebegin">有效期限(开始)：</string>
+    <string name="txt_userlifeend">有效期限(结束)：</string>
+    <string name="btn_begin_scanning">开始扫描</string>
+    <string name="btn_end_scanning">结束扫描</string>
+
+</resources>

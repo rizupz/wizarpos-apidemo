@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/layout/activity_idcard.xml",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/layout/activity_idcard.xml"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/layout/item_main.xml",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout/item_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/layout/item_main.xml",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/layout/item_main.xml"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/layout/activity_idcard.xml",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout/activity_idcard.xml"
+    }
+]

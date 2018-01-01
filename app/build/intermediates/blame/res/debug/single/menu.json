@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/menu/main.xml"
+    }
+]

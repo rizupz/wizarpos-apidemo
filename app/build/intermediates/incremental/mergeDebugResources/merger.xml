@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res"/><source path="/home/rizky/Github/wizarpos-apidemo/app/build/generated/res/rs/debug"/><source path="/home/rizky/Github/wizarpos-apidemo/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="/home/rizky/Github/wizarpos-apidemo/app/src/debug/res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res"><file name="item_main" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout-port/item_main.xml" qualifiers="port" type="layout"/><file name="activity_main" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout-port/activity_main.xml" qualifiers="port" type="layout"/><file name="logo" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-ldpi/logo.bmp" qualifiers="ldpi-v4" type="drawable"/><file name="logo" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-hdpi/logo.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="print_logo" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-hdpi/print_logo.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-hdpi/ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="print" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-hdpi/print.bmp" qualifiers="hdpi-v4" type="drawable"/><file name="print_qrcode" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-hdpi/print_qrcode.bmp" qualifiers="hdpi-v4" type="drawable"/><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values-sw720dp-land/dimens.xml" qualifiers="sw720dp-land-v13"><dimen name="activity_horizontal_margin">128dp</dimen></file><file name="ic_launcher" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-xhdpi/ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="btn_selector" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/btn_selector.xml" qualifiers="" type="drawable"/><file name="txt_bg_shape" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/txt_bg_shape.xml" qualifiers="" type="drawable"/><file name="favorite_background" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/favorite_background.xml" qualifiers="" type="drawable"/><file name="printer_barcode_high" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/printer_barcode_high.png" qualifiers="" type="drawable"/><file name="customer_display_picture" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/customer_display_picture.png" qualifiers="" type="drawable"/><file name="printer_barcode_low" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/printer_barcode_low.png" qualifiers="" type="drawable"/><file name="frame_background" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/frame_background.xml" qualifiers="" type="drawable"/><file name="photo" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/photo.bmp" qualifiers="" type="drawable"/><file name="download" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/download.xml" qualifiers="" type="drawable"/><file name="application_background_static" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/application_background_static.png" qualifiers="" type="drawable"/><file name="test9" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable/test9.png" qualifiers="" type="drawable"/><file name="logo" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/logo.bmp" qualifiers="mdpi-v4" type="drawable"/><file name="print_logo" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/print_logo.bmp" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="print" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/print.bmp" qualifiers="mdpi-v4" type="drawable"/><file name="print_qrcode" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-mdpi/print_qrcode.bmp" qualifiers="mdpi-v4" type="drawable"/><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values-zh-rCN/strings.xml" qualifiers="zh-rCN"><string name="PINPadAction">Open,ShowText,ClearText,SetPINLength,UpdateUserKey,GetSerialNo,SelectKey,EncryptData,CalculateMAC,CalculatePINBlock,UpdateMasterKeyE,UpdateUserKeyE,Close</string><string name="txt_name">姓  名：</string><string name="MSRCardAction">Open,Close</string><string name="WIZARPOS">身份证,非接卡,IC卡1,IC卡2,磁条卡,密码键盘,LED,串口,客显,打印机,钱箱,指纹模块</string><string name="txt_born">出  生：</string><string name="testEnd">测试结束</string><string name="SerialPortAction">Open,SetBaudrate,Read,Write,FlushIO,Close</string><string name="btn_begin_scanning">开始扫描</string><string name="txt_nation">民  族：</string><string name="SmartCardAction1">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string><string name="txt_sex">性  别：</string><string name="FingerPrintAction">Open,GetFea,GetLastImage,Match,Cancel,Close</string><string name="txt_userlifebegin">有效期限(开始)：</string><string name="RFCardAction">Open,QueryInfo,Verify,Read,Write,Attach,Transmit,Detach,ReadMoneyValue,ReadMoneyValue2,WriteMoneyValue,Increment,Decrement,Transfer,Restore,Close</string><string name="SmartCardAction2">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string><string name="version">版本: 0.0.1</string><string name="txt_address">住  址：</string><string name="btn_end_scanning">结束扫描</string><string name="device_opened">设备已打开</string><string name="operation_with_error">失败,错误码 = </string><string name="PrinterActionWIZARHAND_Q1">查询电压,Open,QueryStatus,Write,Close</string><string name="LEDAction">Open,TurnOn,TurnOff,GetStatus,Close</string><string name="action_settings">设置</string><string name="welcome">欢迎来到</string><string name="app_name">APIDemoCloudPos3</string><string name="back">返回</string><string name="CashDrawerAction">Open,KickOut,Close</string><string name="uninstall">卸载应用</string><string name="operation_successful">成功</string><string name="PrinterAction">Open,QueryStatus,Write,Close</string><string name="jianjie">测试简介</string><string name="WIZARHAND_Q1">IDCardAction</string><string name="txt_grantdept">签发机关：</string><string name="clearlog">清除日志</string><string name="IDCardAction">IDCardAction</string><string name="operation_failed"> 失败</string><string name="txt_userlifeend">有效期限(结束)：</string><string name="CustomerDisplayAction">Open,BuzzerBeep,LEDPower,SetBackground,DisplayDefaultScreen,WritePicture,Close</string><string name="device_not_open">设备未打开</string><string name="txt_id_no">身份号码：</string></file><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values-v14/styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values-v11/styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file name="activity_idcard" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout/activity_idcard.xml" qualifiers="" type="layout"/><file name="item_main" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout/item_main.xml" qualifiers="" type="layout"/><file name="activity_main" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/layout/activity_main.xml" qualifiers="" type="layout"/><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values/colors.xml" qualifiers=""><color name="btn_default">#FF1CACE2</color><color name="RED">#FF0000</color><color name="GREEN">#00FF00</color><color name="BLUE">#0000FF</color><color name="lv_row_bg_gray_default">#D1D1D1</color><color name="BLACK">#FFFFFF</color><color name="transparent">#00000000</color><color name="btn_press">#FF0859DA</color><color name="WHITE">#000000</color></file><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values/styles.xml" qualifiers=""><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style><style name="load_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowFrame">@null</item>
+        
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">true</item>
+        
+        <item name="android:windowNoTitle">true</item>
+        
+        <item name="android:background">@drawable/download</item>
+        
+        <item name="android:windowBackground">@color/transparent</item>
+        
+        <item name="android:backgroundDimEnabled">false</item>
+        
+    </style><style name="AppBaseTheme" parent="android:Theme.Light"/></file><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values/arrays.xml" qualifiers=""><string-array name="PrinterAction">
+        <item>open</item>
+        <item>queryStatus</item>
+        <item>write</item>
+        <item>close</item>
+    </string-array><string-array name="SerialPortAction">
+        <item>open</item>
+        <item>setBaudrate</item>
+        <item>read</item>
+        <item>write</item>
+        <item>flushIO</item>
+        <item>close</item>
+    </string-array><string-array name="SmartCardAction1">
+        <item>queryMaxNumber</item>
+        <item>queryPresence</item>
+        <item>open</item>
+        <item>powerOn</item>
+        <item>transmit</item>
+        <item>powerOff</item>
+        <item>close</item>
+    </string-array><string-array name="SmartCardAction2">
+        <item>queryMaxNumber</item>
+        <item>queryPresence</item>
+        <item>open</item>
+        <item>powerOn</item>
+        <item>transmit</item>
+        <item>powerOff</item>
+        <item>close</item>
+    </string-array><string-array name="CashDrawerAction">
+        <item>open</item>
+        <item>kickOut</item>
+        <item>close</item>
+    </string-array><string-array name="LEDAction">
+        <item>open</item>
+        <item>turnOn</item>
+        <item>turnOff</item>
+        <item>getStatus</item>
+        <item>close</item>
+    </string-array><string-array name="IDCardAction">
+        <item>IDCardAction</item>
+    </string-array><string-array name="PrinterActionWIZARHAND_Q1">
+        <item>queryVoltage</item>
+        <item>open</item>
+        <item>queryStatus</item>
+        <item>write</item>
+        <item>close</item>
+    </string-array><string-array name="FingerPrintAction">
+        <item>open</item>
+        <item>getFea</item>
+        <item>getLastImage</item>
+        <item>match</item>
+        <item>cancel</item>
+        <item>close</item>
+    </string-array><string-array name="MSRCardAction">
+        <item>open</item>
+        <item>close</item>
+    </string-array><string-array name="PINPadAction">
+        <item>open</item>
+        <item>showText</item>
+        <item>clearText</item>
+        <item>setPINLength</item>
+        <item>updateUserKey</item>
+        <item>getSerialNo</item>
+        <item>selectKey</item>
+        <item>encryptData</item>
+        <item>calculateMAC</item>
+        <item>calculatePINBlock</item>
+        <item>updateMasterKeyE</item>
+        <item>updateUserKeyWithCheckE</item>
+        <item>close</item>
+    </string-array><string-array name="CustomerDisplayAction">
+        <item>open</item>
+        <item>buzzerBeep</item>
+        <item>LEDPower</item>
+        <item>setBackground</item>
+        <item>displayDefaultScreen</item>
+        <item>writePicture</item>
+        <item>close</item>
+    </string-array><string-array name="RFCardAction">
+        <item>open</item>
+        <item>queryInfo</item>
+        <item>verify</item>
+        <item>read</item>
+        <item>write</item>
+        <item>attach</item>
+        <item>transmit</item>
+        <item>detach</item>
+        <item>readMoneyValue</item>
+        <item>readMoneyValue2</item>
+        <item>writeMoneyValue</item>
+        <item>increment</item>
+        <item>decrement</item>
+        <item>transfer</item>
+        <item>restore</item>
+        <item>close</item>
+    </string-array><string-array name="WIZARPOS">
+        <item>IDCardAction</item>
+        <item>RFCardAction</item>
+        <item>SmartCardAction1</item>
+        <item>SmartCardAction2</item>
+        <item>MSRCardAction</item>
+        <item>PINPadAction</item>
+        <item>LEDAction</item>
+        <item>SerialPortAction</item>
+        <item>CustomerDisplayAction</item>
+        <item>PrinterAction</item>
+        <item>CashDrawerAction</item>
+        <item>FingerPrintAction</item>
+    </string-array></file><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values/dimens.xml" qualifiers=""><dimen name="activity_vertical_margin">16dp</dimen><dimen name="activity_horizontal_margin">16dp</dimen></file><file path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/values/strings.xml" qualifiers=""><string name="txt_born">出  生：</string><string name="operation_failed"> failed</string><string name="txt_name">姓  名：</string><string name="SmartCardAction2">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string><string name="LEDAction">Open,TurnOn,TurnOff,GetStatus,Close</string><string name="SmartCardAction1">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string><string name="PrinterAction">Open,QueryStatus,Write,Close</string><string name="PrinterActionWIZARHAND_Q1">QueryVoltage,Open,QueryStatus,Write,Close</string><string name="CashDrawerAction">Open,KickOut,Close</string><string name="txt_userlifeend">有效期限(结束)：</string><string name="clearlog">ClearLog</string><string name="version">Version: 0.0.1</string><string name="IDCardAction">IDCardAction</string><string name="txt_nation">民  族：</string><string name="jniinterface_package_name">com.unionpay.cloudpos.jniinterface.</string><string name="WIZARHAND_Q1">IDCardAction</string><string name="uninstall">Uninstall</string><string name="txt_grantdept">签发机关：</string><string name="btn_end_scanning">End Scanning</string><string name="operation_with_error">failed, error code = </string><string name="MSRCardAction">Open,Close</string><string name="txt_userlifebegin">有效期限(开始)：</string><string name="hello_world">Hello world!</string><string name="SerialPortAction">Open,SetBaudrate,Read,Write,FlushIO,Close</string><string name="device_not_open">device is not opened</string><string name="btn_begin_scanning">Begin Scanning</string><string name="testEnd">Testing End!</string><string name="action_settings">Settings</string><string name="txt_sex">性  别：</string><string name="txt_id_no">身份号码：</string><string name="app_name">APIDemoCloudPos3</string><string name="FingerPrintAction">Open,GetFea,GetLastImage,Match,Cancel,Close</string><string name="back">Back</string><string name="operation_successful">successfully</string><string name="txt_address">住  址：</string><string name="PINPadAction">Open,ShowText,ClearText,SetPINLength,UpdateUserKey,GetSerialNo,SelectKey,EncryptData,CalculateMAC,CalculatePINBlock,UpdateMasterKeyE,UpdateUserKeyE,Close</string><string name="welcome">Welcome to</string><string name="device_opened">device is opened</string><string name="RFCardAction">Open,QueryInfo,Verify,Read,Write,Attach,Transmit,Detach,ReadMoneyValue,ReadMoneyValue2,WriteMoneyValue,Increment,Decrement,Transfer,Restore,Close</string><string name="action_package_name">com.cloudpos.apidemo.action.</string><string name="WIZARPOS">IDCard,RFCard,SmartCard1,SmartCard,MSRCard,PINPad,LED,SerialPort,CustomerDisplay,Printer,CashDrawer,FingerPrint</string><string name="CustomerDisplayAction">Open,BuzzerBeep,LEDPower,SetBackground,DisplayDefaultScreen,WritePicture,Close</string><string name="jianjie">Test Profile</string></file><file name="main" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/menu/main.xml" qualifiers="" type="menu"/><file name="ic_launcher" path="/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-xxhdpi/ic_launcher.png" qualifiers="xxhdpi-v4" type="drawable"/></source><source path="/home/rizky/Github/wizarpos-apidemo/app/build/generated/res/rs/debug"/><source path="/home/rizky/Github/wizarpos-apidemo/app/build/generated/res/resValues/debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="/home/rizky/Github/wizarpos-apidemo/app/src/debug/res"/></dataSet><mergedItems/></merger>

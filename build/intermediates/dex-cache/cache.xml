@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/rizky/Gitlab/WizarPOS-APIDemo/app/libs/allutils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fd005020956e2019d966766669d6532be309319">
+        <dex dex="/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/pre-dexed/debug/allutils_50fa9b1564771350c12029fb8d83311c1a77833b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rizky/Github/wizarpos-apidemo/app/libs/allutils.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2fd005020956e2019d966766669d6532be309319">
+        <dex dex="/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/pre-dexed/debug/allutils_9071ef390a041a11121ebe28e3bdc189a7f7c8c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/rizky/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_233ac5df5eea3339ab34e078e1ae60db277bb689.jar" />
+    </item>
+
+</items>

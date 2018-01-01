@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <color name="btn_press">#FF0859DA</color><!--  -->
+    <color name="btn_default">#FF1CACE2</color><!--  -->
+    <color name="transparent">#00000000</color><!--  -->
+    <color name="lv_row_bg_gray_default">#D1D1D1</color><!--  -->
+    <color name="RED">#FF0000</color>
+    <color name="GREEN">#00FF00</color>
+    <color name="BLUE">#0000FF</color>
+    <color name="WHITE">#000000</color>
+    <color name="BLACK">#FFFFFF</color>
+    
+    
+</resources>

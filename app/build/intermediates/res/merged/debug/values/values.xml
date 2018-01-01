@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="CashDrawerAction">
+        <item>open</item>
+        <item>kickOut</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="CustomerDisplayAction">
+        <item>open</item>
+        <item>buzzerBeep</item>
+        <item>LEDPower</item>
+        <item>setBackground</item>
+        <item>displayDefaultScreen</item>
+        <item>writePicture</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="FingerPrintAction">
+        <item>open</item>
+        <item>getFea</item>
+        <item>getLastImage</item>
+        <item>match</item>
+        <item>cancel</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="IDCardAction">
+        <item>IDCardAction</item>
+    </string-array>
+    <string-array name="LEDAction">
+        <item>open</item>
+        <item>turnOn</item>
+        <item>turnOff</item>
+        <item>getStatus</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="MSRCardAction">
+        <item>open</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="PINPadAction">
+        <item>open</item>
+        <item>showText</item>
+        <item>clearText</item>
+        <item>setPINLength</item>
+        <item>updateUserKey</item>
+        <item>getSerialNo</item>
+        <item>selectKey</item>
+        <item>encryptData</item>
+        <item>calculateMAC</item>
+        <item>calculatePINBlock</item>
+        <item>updateMasterKeyE</item>
+        <item>updateUserKeyWithCheckE</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="PrinterAction">
+        <item>open</item>
+        <item>queryStatus</item>
+        <item>write</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="PrinterActionWIZARHAND_Q1">
+        <item>queryVoltage</item>
+        <item>open</item>
+        <item>queryStatus</item>
+        <item>write</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="RFCardAction">
+        <item>open</item>
+        <item>queryInfo</item>
+        <item>verify</item>
+        <item>read</item>
+        <item>write</item>
+        <item>attach</item>
+        <item>transmit</item>
+        <item>detach</item>
+        <item>readMoneyValue</item>
+        <item>readMoneyValue2</item>
+        <item>writeMoneyValue</item>
+        <item>increment</item>
+        <item>decrement</item>
+        <item>transfer</item>
+        <item>restore</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="SerialPortAction">
+        <item>open</item>
+        <item>setBaudrate</item>
+        <item>read</item>
+        <item>write</item>
+        <item>flushIO</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="SmartCardAction1">
+        <item>queryMaxNumber</item>
+        <item>queryPresence</item>
+        <item>open</item>
+        <item>powerOn</item>
+        <item>transmit</item>
+        <item>powerOff</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="SmartCardAction2">
+        <item>queryMaxNumber</item>
+        <item>queryPresence</item>
+        <item>open</item>
+        <item>powerOn</item>
+        <item>transmit</item>
+        <item>powerOff</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="WIZARPOS">
+        <item>IDCardAction</item>
+        <item>RFCardAction</item>
+        <item>SmartCardAction1</item>
+        <item>SmartCardAction2</item>
+        <item>MSRCardAction</item>
+        <item>PINPadAction</item>
+        <item>LEDAction</item>
+        <item>SerialPortAction</item>
+        <item>CustomerDisplayAction</item>
+        <item>PrinterAction</item>
+        <item>CashDrawerAction</item>
+        <item>FingerPrintAction</item>
+    </string-array>
+    <color name="BLACK">#FFFFFF</color>
+    <color name="BLUE">#0000FF</color>
+    <color name="GREEN">#00FF00</color>
+    <color name="RED">#FF0000</color>
+    <color name="WHITE">#000000</color>
+    <color name="btn_default">#FF1CACE2</color>
+    <color name="btn_press">#FF0859DA</color>
+    <color name="lv_row_bg_gray_default">#D1D1D1</color>
+    <color name="transparent">#00000000</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="CashDrawerAction">Open,KickOut,Close</string>
+    <string name="CustomerDisplayAction">Open,BuzzerBeep,LEDPower,SetBackground,DisplayDefaultScreen,WritePicture,Close</string>
+    <string name="FingerPrintAction">Open,GetFea,GetLastImage,Match,Cancel,Close</string>
+    <string name="IDCardAction">IDCardAction</string>
+    <string name="LEDAction">Open,TurnOn,TurnOff,GetStatus,Close</string>
+    <string name="MSRCardAction">Open,Close</string>
+    <string name="PINPadAction">Open,ShowText,ClearText,SetPINLength,UpdateUserKey,GetSerialNo,SelectKey,EncryptData,CalculateMAC,CalculatePINBlock,UpdateMasterKeyE,UpdateUserKeyE,Close</string>
+    <string name="PrinterAction">Open,QueryStatus,Write,Close</string>
+    <string name="PrinterActionWIZARHAND_Q1">QueryVoltage,Open,QueryStatus,Write,Close</string>
+    <string name="RFCardAction">Open,QueryInfo,Verify,Read,Write,Attach,Transmit,Detach,ReadMoneyValue,ReadMoneyValue2,WriteMoneyValue,Increment,Decrement,Transfer,Restore,Close</string>
+    <string name="SerialPortAction">Open,SetBaudrate,Read,Write,FlushIO,Close</string>
+    <string name="SmartCardAction1">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string>
+    <string name="SmartCardAction2">QueryMaxNumber,QueryPresence,Open,PowerOn,Transmit,PowerOff,Close</string>
+    <string name="WIZARHAND_Q1">IDCardAction</string>
+    <string name="WIZARPOS">IDCard,RFCard,SmartCard1,SmartCard,MSRCard,PINPad,LED,SerialPort,CustomerDisplay,Printer,CashDrawer,FingerPrint</string>
+    <string name="action_package_name">com.cloudpos.apidemo.action.</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">APIDemoCloudPos3</string>
+    <string name="back">Back</string>
+    <string name="btn_begin_scanning">Begin Scanning</string>
+    <string name="btn_end_scanning">End Scanning</string>
+    <string name="clearlog">ClearLog</string>
+    <string name="device_not_open">device is not opened</string>
+    <string name="device_opened">device is opened</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="jianjie">Test Profile</string>
+    <string name="jniinterface_package_name">com.unionpay.cloudpos.jniinterface.</string>
+    <string name="operation_failed"> failed</string>
+    <string name="operation_successful">successfully</string>
+    <string name="operation_with_error">failed, error code = </string>
+    <string name="testEnd">Testing End!</string>
+    <string name="txt_address">住  址：</string>
+    <string name="txt_born">出  生：</string>
+    <string name="txt_grantdept">签发机关：</string>
+    <string name="txt_id_no">身份号码：</string>
+    <string name="txt_name">姓  名：</string>
+    <string name="txt_nation">民  族：</string>
+    <string name="txt_sex">性  别：</string>
+    <string name="txt_userlifebegin">有效期限(开始)：</string>
+    <string name="txt_userlifeend">有效期限(结束)：</string>
+    <string name="uninstall">Uninstall</string>
+    <string name="version">Version: 0.0.1</string>
+    <string name="welcome">Welcome to</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="load_dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowFrame">@null</item>
+        <!-- 边框 -->
+        <item name="android:windowIsFloating">true</item>
+        <!-- 是否浮现在activity之上 -->
+        <item name="android:windowIsTranslucent">true</item>
+        <!-- 半透明 -->
+        <item name="android:windowNoTitle">true</item>
+        <!-- 无标题 -->
+        <item name="android:background">@drawable/download</item>
+        <!-- dialog背景样式 -->
+        <item name="android:windowBackground">@color/transparent</item>
+        <!-- 背景透明 -->
+        <item name="android:backgroundDimEnabled">false</item>
+        <!-- 模糊 -->
+    </style>
+</resources>

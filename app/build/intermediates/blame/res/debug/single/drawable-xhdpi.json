@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/rizky/Gitlab/WizarPOS-APIDemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/rizky/Github/wizarpos-apidemo/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/rizky/Github/wizarpos-apidemo/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    }
+]

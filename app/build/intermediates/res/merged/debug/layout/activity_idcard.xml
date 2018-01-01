@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="600dp"
+    android:layout_height="match_parent"
+    android:paddingBottom="14dp"
+    android:paddingLeft="14dp"
+    android:paddingRight="14dp"
+    android:paddingTop="14dp" >
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/txt_name"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_name_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_name"
+        android:layout_toRightOf="@+id/txt_name"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_sex"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_name"
+        android:text="@string/txt_sex"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_sex_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_sex"
+        android:layout_toRightOf="@+id/txt_sex"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_nation"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_sex"
+        android:layout_below="@+id/txt_sex"
+        android:text="@string/txt_nation"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_nation_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_nation"
+        android:layout_toRightOf="@+id/txt_nation"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_born"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_nation"
+        android:layout_below="@+id/txt_nation"
+        android:text="@string/txt_born"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_born_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_born"
+        android:layout_toRightOf="@+id/txt_born"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_address"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_born"
+        android:layout_below="@+id/txt_born"
+        android:text="@string/txt_address"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_address_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_address"
+        android:layout_toRightOf="@+id/txt_address"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_grantdept"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/txt_userlifeend"
+        android:layout_below="@+id/txt_address"
+        android:text="@string/txt_grantdept"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_grantdept_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_grantdept"
+        android:layout_toRightOf="@+id/txt_grantdept"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_id_no"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_grantdept"
+        android:text="@string/txt_id_no"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_id_no_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_id_no"
+        android:layout_toRightOf="@+id/txt_id_no"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_userlifebegin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_id_no"
+        android:text="@string/txt_userlifebegin"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_userlifebegin_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_userlifebegin"
+        android:layout_toRightOf="@+id/txt_userlifebegin"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_userlifeend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_userlifebegin"
+        android:text="@string/txt_userlifeend"
+        android:textSize="28sp" />
+
+    <TextView
+        android:id="@+id/txt_userlifeend_content"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/txt_userlifeend"
+        android:layout_toRightOf="@+id/txt_userlifeend"
+        android:textSize="28sp" />
+
+    <ImageView
+        android:id="@+id/img_picture"
+        android:layout_width="136dp"
+        android:layout_height="168dp"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:background="@drawable/photo" />
+
+    <Button
+        android:id="@+id/btn_begin"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:text="@string/btn_begin_scanning"
+        android:textSize="32sp" />
+
+    <Button
+        android:id="@+id/btn_end"
+        android:layout_width="200dp"
+        android:layout_height="100dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/btn_end_scanning"
+        android:textSize="32sp" />
+
+</RelativeLayout>
